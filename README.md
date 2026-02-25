@@ -28,7 +28,6 @@ Classify salary category (>50K or <=50K) using supervised learning models, with 
   
   -📄 adult 3.csv : https://www.mediafire.com/file/1fw5t7627ghsmvk/adult+3.xlsx/file
   
-  -📈 Final_Salary_Prediction_Project.pptx : https://www.mediafire.com/file/trbs2jc8zonau8z/Salary+prediction+using+Machine+Learning.pptx/file
   
 
 📌 **Use Cases:**
