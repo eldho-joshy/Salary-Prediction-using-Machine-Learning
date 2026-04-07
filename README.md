@@ -43,8 +43,7 @@ Classify salary category (>50K or <=50K) using supervised learning models, with 
 🧑‍💻 **Author:**
 
 Name: Eldho Joshy
+Linkedin: linkedin.com/in/-eldho-joshy-160806-
 
-College: Chinmaya Vishwa Vidyapeeth (Deemed to be university) Ernakulam, Kerala
-
-LInkedin: linkedin.com/in/-eldho-joshy-160806-
+*If you find this project helpful, feel free to ⭐ the repository!*
 
